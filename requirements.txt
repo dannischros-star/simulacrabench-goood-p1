@@ -1,0 +1,13 @@
+numpy==2.4.3
+pandas==3.0.1
+scipy==1.17.1
+torch==2.10.0
+rtdl-num-embeddings==0.0.12
+scikit-learn==1.8.0
+einops==0.8.1
+huggingface-hub==0.36.0
+psutil==7.2.2
+tqdm==4.67.1
+transformers==4.57.3
+
+threadpoolctl==3.6.0
